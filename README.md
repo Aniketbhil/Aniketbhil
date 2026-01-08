@@ -7,35 +7,35 @@ I work as a **full-stack developer**, with a stronger focus on the **backend**.
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/python.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/ruby.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/javascript.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/java.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/c.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/cplusplus.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/html.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/css.gif" width="45"/>
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ruby&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" />
 </p>
 
 ---
 
 ### ⚙️ Frameworks & Libraries
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/fastapi.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/flask.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/django.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/rails.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/react.gif" width="45"/>
+  <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=django&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rails&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
 </p>
 
 ---
 
 ### 📦 Production Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/docker.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/kubernetes.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/git.gif" width="45"/>
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Skills/github.gif" width="45"/>
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
 </p>
 
 ---
