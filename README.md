@@ -1,7 +1,6 @@
-👋 Hi, I’m a 19-year-old developer.
+👋 Hi, I’m a 19-year-old developer from INDIA.
 
-🛠️ I’m interested in building **scalable and secure systems**.  
-I work as a **full-stack developer**, with a stronger focus on the **backend**.
+🛠️ Backend by **Trade**, Fullstack by **passion**
 
 ---
 
