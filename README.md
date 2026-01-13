@@ -1,6 +1,7 @@
 👋 Hi, I’m a 19-year-old developer from INDIA.
 
-🛠️ Backend by **Trade**, Fullstack by **passion**
+🛠️ Backend by **Trade**, Fullstack by **passion**. 
+I **build** and **self host** a lot.
 
 ---
 
